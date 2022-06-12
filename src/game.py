@@ -4244,7 +4244,7 @@ def pausing():
     global resized_screen
     global paused
     gameQuit = False
-    pause_pic, pause_pic_rect = alpha_image('Paused.png', width, height, -1)
+    pause_pic, pause_pic_rect = alpha_image('paused.png', width, height, -1)
 
     pygame.mixer.music.pause()  # 일시정지상태가 되면 배경음악도 일시정지
 
