@@ -29,13 +29,19 @@
 ## 프로그램 실행 시
 To run this game:
 - Make sure you have Python installed alongwith pygame (http://www.pygame.org/) library
-- Run run.py
+```
+pip install pygame
+python run.py
+```
+![image](https://user-images.githubusercontent.com/65417437/173231963-c494919e-8cf7-4e89-bd39-51b408a42851.png)
 
 ## How to Play
 <img width="599" alt="keyboard" src="https://user-images.githubusercontent.com/65417437/173192856-95aaa289-0999-4d0d-afb1-2cb99010e698.PNG">
 <br>
 <br>
 
+## 플레이 영상
+https://youtu.be/RM1BkLhJGUA
 
 
 ## Developed by:
@@ -67,4 +73,5 @@ References:
 - http://www.pygame.org/docs
 - https://github.com/wayou/t-rex-runner
 - https://github.com/shivamshekhar/Chrome-T-Rex-Rush
+- https://github.com/CSID-DGU/2021-1-OSSPC-MilkDragon-6
 - https://github.com/CSID-DGU/2021-2-OSSProj-TwoSeokTwoJoo-3
